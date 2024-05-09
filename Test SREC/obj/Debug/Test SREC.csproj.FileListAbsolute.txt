@@ -1,0 +1,10 @@
+C:\Users\BASSHANM\Desktop\ECU project\Test SREC\obj\Debug\Test SREC.csproj.AssemblyReference.cache
+C:\Users\BASSHANM\Desktop\ECU project\Test SREC\obj\Debug\Test_SREC.Properties.Resources.resources
+C:\Users\BASSHANM\Desktop\ECU project\Test SREC\obj\Debug\Test SREC.csproj.GenerateResource.cache
+C:\Users\BASSHANM\Desktop\ECU project\Test SREC\obj\Debug\Test SREC.csproj.CoreCompileInputs.cache
+C:\Users\BASSHANM\Desktop\ECU project\Test SREC\bin\Debug\Test SREC.exe.config
+C:\Users\BASSHANM\Desktop\ECU project\Test SREC\bin\Debug\Test SREC.exe
+C:\Users\BASSHANM\Desktop\ECU project\Test SREC\bin\Debug\Test SREC.pdb
+C:\Users\BASSHANM\Desktop\ECU project\Test SREC\obj\Debug\Test SREC.exe
+C:\Users\BASSHANM\Desktop\ECU project\Test SREC\obj\Debug\Test SREC.pdb
+C:\Users\BASSHANM\Desktop\ECU project\Test SREC\obj\Debug\Test_SREC.Form1.resources
